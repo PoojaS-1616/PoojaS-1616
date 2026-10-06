@@ -65,7 +65,9 @@ I turn messy business data into decisions. I spent two years in operations at Ac
 
 **Data notes:** Handled two mixed date formats and documented every assumption. Treated Sub-Category as the "product" level, since the dataset has no SKU field.
 
-🔗 [View dashboard](LINK) · 📷 *Add dashboard screenshot*
+[![Supermart Grocery Sales Dashboard](https://github.com/PoojaS-1616/data-analyst-portfolio/raw/main/supermart-grocery-sales-dashboard-main/Supermart_Grocery_Dashboard_Preview.png)](https://github.com/PoojaS-1616/data-analyst-portfolio/tree/main/supermart-grocery-sales-dashboard-main)
+
+🔗 [View project & files](https://github.com/PoojaS-1616/data-analyst-portfolio/tree/main/supermart-grocery-sales-dashboard-main)
 
 ---
 
