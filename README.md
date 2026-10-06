@@ -39,7 +39,7 @@ I turn messy business data into decisions. I spent two years in operations at Ac
 
 **Recommendations:** Reduce returns in Electronics through better product information and quality checks. Look into why Apparel orders get cancelled so often. Reduce dependence on a single category by growing Home & Kitchen, the second-largest at 11.5% of sales.
 
-[![Amazon India Dashboard](https://github.com/PoojaS-1616/amazon-indian-business-dashboard/raw/main/Amazon_India_Dashboard_Preview.png)](https://github.com/PoojaS-1616/amazon-indian-business-dashboard)
+[![Amazon India Dashboard](https://github.com/PoojaS-1616/data-analyst-portfolio/tree/main/amazon-indian-business-dashboard-main/Amazon_India_Dashboard_Preview.png)](https://github.com/PoojaS-1616/amazon-indian-business-dashboard)
 
 🔗 [View project & files](https://github.com/PoojaS-1616/amazon-indian-business-dashboard)
 ---
