@@ -41,7 +41,7 @@ I turn messy business data into decisions. I spent two years in operations at Ac
 
 [![Amazon India Dashboard](https://github.com/PoojaS-1616/amazon-indian-business-dashboard/raw/main/Amazon_India_Dashboard_Preview.png)](https://github.com/PoojaS-1616/amazon-indian-business-dashboard)
 
-🔗 [View project & files](https://github.com/PoojaS-1616/amazon-indian-business-dashboard) · 📥 [Download Excel dashboard](https://github.com/PoojaS-1616/amazon-indian-business-dashboard/raw/main/Amazon_India_Business_Performance_Dashboard.xlsx) · 🧹 [Data cleaning process](https://github.com/PoojaS-1616/amazon-indian-business-dashboard/blob/main/Data_Cleaning_Process.md)
+🔗 [View project & files](https://github.com/PoojaS-1616/amazon-indian-business-dashboard)
 ---
 
 ### 🛒 Supermart Grocery Sales Analytics
