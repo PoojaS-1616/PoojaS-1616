@@ -4,7 +4,7 @@
 
 I turn messy business data into decisions. I spent two years in operations at Accenture (invoicing, SAP Ariba, Excel reporting), and I now build analytics dashboards that answer specific business questions and end with a recommendation.
 
-📫 [LinkedIn](https://www.linkedin.com/in/pooja-singh-data/) · ✉️ poojas.s199977@gmail.com · 🌐 [Portfolio](YOUR-PORTFOLIO-URL)
+📫 [LinkedIn](https://www.linkedin.com/in/pooja-singh-data/) · ✉️ [Email]poojas.s199977@gmail.com · 🌐 [Portfolio](YOUR-PORTFOLIO-URL)
 
 ---
 
