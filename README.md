@@ -69,8 +69,8 @@ I turn messy business data into decisions. I spent two years in operations at Ac
 ---
 
 ## 📈 Currently Building
+- BlinkIT Grocery Sales Analysis: Python · Pandas · Matplotlib · Seaborn *(in progress)*
 - Statistics and machine learning, moving toward data science
-- Next project: **[Add: e.g. a SQL- or Python-based analysis]**
 
 ---
 
