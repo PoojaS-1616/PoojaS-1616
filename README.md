@@ -41,7 +41,7 @@ I turn messy business data into decisions. I spent two years in operations at Ac
 
 [![Amazon India Dashboard](https://github.com/PoojaS-1616/data-analyst-portfolio/tree/main/amazon-indian-business-dashboard-main/Amazon_India_Dashboard_Preview.png)](https://github.com/PoojaS-1616/amazon-indian-business-dashboard)
 
-🔗 [View project & files](https://github.com/PoojaS-1616/amazon-indian-business-dashboard)
+🔗 [View project & files](https://github.com/PoojaS-1616/data-analyst-portfolio/tree/main/amazon-india-dashboard)
 ---
 
 ### 🛒 Supermart Grocery Sales Analytics
