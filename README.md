@@ -71,11 +71,9 @@ I turn messy business data into decisions. I spent two years in operations at Ac
 
 ---
 
----
 
 ### 🛒 BlinkIT Grocery Pricing & Catalogue Analysis
 
-**Status:** Completed  
 **Tools:** Python · Pandas · NumPy · Matplotlib · Seaborn · SciPy · Jupyter Notebook
 
 **Project Overview**
@@ -126,7 +124,6 @@ This project reinforced the importance of validating business metrics before dra
 
 ---
 ## 📈 Currently Building
-- BlinkIT Grocery Sales Analysis: Python · Pandas · Matplotlib · Seaborn *(in progress)*
 - Statistics and machine learning, moving toward data science
 
 ---
