@@ -71,6 +71,60 @@ I turn messy business data into decisions. I spent two years in operations at Ac
 
 ---
 
+---
+
+### 🛒 BlinkIT Grocery Pricing & Catalogue Analysis
+
+**Status:** Completed  
+**Tools:** Python · Pandas · NumPy · Matplotlib · Seaborn · SciPy · Jupyter Notebook
+
+**Project Overview**
+
+An end-to-end retail analytics project investigating product pricing patterns, catalogue composition, outlet assortment, and customer ratings using BlinkIT product-outlet data.
+
+The project combines exploratory data analysis, data-quality checks, statistical testing, and business interpretation to identify patterns in retail catalogue data.
+
+**Dataset at a Glance**
+
+| Metric | Result |
+|---|---:|
+| Product-outlet records | 8,523 |
+| Unique product SKUs | 1,559 |
+| Outlets | 10 |
+| Product categories | 16 |
+| Average recorded Sales value | 140.99 |
+| Average product rating | 3.97 / 5 |
+
+**Key Findings**
+
+- **Catalogue composition:** Food accounts for 71.86% of product-outlet records, followed by non-consumables at 18.76% and drinks at 9.37%.
+- **Category concentration:** The five largest categories contribute approximately 59.03% of the summed recorded Sales metric.
+- **Outlet assortment:** Supermarkets carry an average of 930 SKUs, compared with 541.5 for grocery stores in this dataset.
+- **Customer ratings:** The average rating is 3.97 out of 5, while 39.18% of records have a rating of exactly 4.
+- **Important data-quality discovery:** SKU identity explains approximately 99.97% of the variance in the recorded Sales field. This suggests the field behaves more like a product-level price or value than verified transaction revenue.
+
+**Analysis Performed**
+
+- Audited missing values, product identifiers, and dataset structure.
+- Analysed product categories and catalogue composition.
+- Compared assortment and recorded values across outlets.
+- Examined distributions, correlations, and category differences using statistical methods.
+- Developed data-informed recommendations for catalogue management and further data validation.
+
+**Business Recommendations**
+
+- Review category concentration when planning assortment and catalogue coverage.
+- Compare product availability across outlet formats.
+- Validate the meaning of the Sales field before using it for revenue reporting.
+- Combine catalogue data with transaction quantities and dates to measure demand and sales trends reliably.
+
+**Key Learning**
+
+This project reinforced the importance of validating business metrics before drawing conclusions. A field labelled Sales does not automatically represent realised revenue, and catalogue-level data cannot independently establish demand or units sold.
+
+🔗 **[Explore the complete BlinkIT project on GitHub](https://github.com/PoojaS-1616/data-analyst-portfolio/tree/main/BlinkIT-Grocery-Sales-Analysis)**
+
+---
 ## 📈 Currently Building
 - BlinkIT Grocery Sales Analysis: Python · Pandas · Matplotlib · Seaborn *(in progress)*
 - Statistics and machine learning, moving toward data science
